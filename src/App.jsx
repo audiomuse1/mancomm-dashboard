@@ -6,7 +6,7 @@ function App() {
     <div>
       <AppBar position="static">
         <Toolbar>
-          <Typography variant="h6">Mancomm Dashboard Assignment</Typography>
+          <Typography variant="h6">Mancomm Dashboard Assignment - Andrew Hartford</Typography>
         </Toolbar>
       </AppBar>
       <Container>

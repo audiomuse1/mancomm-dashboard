@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mancommdashboardvite-dev-9893f-authRole",
+      "UnauthRoleArn": "arn:aws:iam::637423515636:role/amplify-mancommdashboardvite-dev-9893f-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::637423515636:role/amplify-mancommdashboardvite-dev-9893f-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-mancommdashboardvite-dev-9893f-deployment",
+      "UnauthRoleName": "amplify-mancommdashboardvite-dev-9893f-unauthRole",
+      "StackName": "amplify-mancommdashboardvite-dev-9893f",
+      "StackId": "arn:aws:cloudformation:us-west-2:637423515636:stack/amplify-mancommdashboardvite-dev-9893f/425df7a0-0838-11ef-9681-0664208fa259",
+      "AmplifyAppId": "dxofnyq3gqwtm"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dxofnyq3gqwtm",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
