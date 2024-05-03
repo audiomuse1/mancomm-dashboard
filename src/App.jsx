@@ -1,9 +1,14 @@
-import React from 'react';
+import React from "react";
 import { AppBar, Toolbar, Typography, Container } from '@mui/material';
-import Chart from './chart';
+import Chart from './components/chart';
+
+
+
 function App() {
   return (
     <div>
+  
+
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h6">Mancomm Dashboard Assignment - Andrew Hartford</Typography>
@@ -12,6 +17,8 @@ function App() {
       <Container>
         <Chart />
       </Container>
+
+   
     </div>
   );
 }
