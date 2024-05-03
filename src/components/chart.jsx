@@ -1,6 +1,7 @@
 import React from 'react';
 import Chart, { Series, CommonSeriesSettings, ArgumentAxis, ValueAxis, Legend } from 'devextreme-react/chart';
 
+
 function MyChart() {
   const data = [
     { year: 1990, value: 1 },
